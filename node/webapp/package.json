@@ -41,7 +41,7 @@
     "less": "2.7.0",
     "less-loader": "3.0.0",
     "lodash": "^4.17.5",
-    "node-sass": "^4.8.3",
+    "node-sass": "^9.0.0",
     "object-assign": "4.1.1",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.8",
